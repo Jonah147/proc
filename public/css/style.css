@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.wrapper
+{
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-color: #eee;
+}
+
+header {
+	width: 100%;
+	height: 100px;
+	background-color: goldenrod;
+	margin-bottom: 20px;
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	background-color: goldenrod;
+}
